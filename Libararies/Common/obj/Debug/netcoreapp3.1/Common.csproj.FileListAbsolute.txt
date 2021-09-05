@@ -1,0 +1,9 @@
+C:\repos\MassageStudio\Libararies\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\repos\MassageStudio\Libararies\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\repos\MassageStudio\Libararies\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\repos\MassageStudio\Libararies\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\repos\MassageStudio\Libararies\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\repos\MassageStudio\Libararies\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\repos\MassageStudio\Libararies\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\repos\MassageStudio\Libararies\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\repos\MassageStudio\Libararies\Common\obj\Debug\netcoreapp3.1\Common.pdb

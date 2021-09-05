@@ -1,0 +1,17 @@
+C:\repos\MassageStudio\Libararies\Data\bin\Debug\netcoreapp3.1\Models.dll
+C:\repos\MassageStudio\Libararies\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\repos\MassageStudio\Libararies\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\repos\MassageStudio\Libararies\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\repos\MassageStudio\Libararies\Data\bin\Debug\netcoreapp3.1\Common.dll
+C:\repos\MassageStudio\Libararies\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\repos\MassageStudio\Libararies\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\repos\MassageStudio\Libararies\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\repos\MassageStudio\Libararies\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\repos\MassageStudio\Libararies\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\repos\MassageStudio\Libararies\Data\bin\Debug\netcoreapp3.1\Common.pdb
+C:\repos\MassageStudio\Libararies\Data\bin\Debug\netcoreapp3.1\Models.pdb
+C:\repos\MassageStudio\Libararies\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\repos\MassageStudio\Libararies\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\repos\MassageStudio\Libararies\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\repos\MassageStudio\Libararies\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\repos\MassageStudio\Libararies\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
